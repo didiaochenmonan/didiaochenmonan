@@ -41,7 +41,8 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- [![didiaochenmonan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=didiaochenmonan&theme=github-compact)](https://github.com/didiaochenmonan/github-readme-activity-graph) -->
-![didiaochenmonan's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!-- ![didiaochenmonan's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg) -->
+![didiaochenmonan's github activity graph](./profile-3d-contrib/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![didiaochenmonan's github stats](https://github-readme-stats.vercel.app/api?username=didiaochenmonan&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=didiaochenmonan&theme=radical&layout=compact) |
