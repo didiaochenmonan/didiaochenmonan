@@ -58,9 +58,6 @@
 <a href="https://skyline.github.com/didiaochenmonan/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=didiaochenmonan" width="auto"></img>
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
